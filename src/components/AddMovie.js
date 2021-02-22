@@ -70,7 +70,7 @@ function AddMovie({ callbackSalah }) {
           style={{ textAlign: "center" }}
           ref={(_subtitle) => (subtitle = _subtitle)}
         >
-          Add Your Fucking Movie
+          Add Your Movie
         </h2>
         <form style={{display: "flex", flexDirection: "Column", alignItems:"space-around", height: "450px",justifyContent:"space-around"}}>
             <label htmlFor="title">Enter Title : </label>
